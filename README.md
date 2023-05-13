@@ -5,3 +5,6 @@ My custom GNU/Linux AV that runs daily
 Git clone this repo
 chmod +x the file
 ./ run the file
+
+# Todo:
+Setup cron
